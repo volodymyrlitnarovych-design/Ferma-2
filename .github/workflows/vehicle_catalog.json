@@ -1,0 +1,89 @@
+[
+  {
+    "brand": "John Deere",
+    "model": "7810",
+    "type": "tractor",
+    "speed": 240,
+    "fuel_rate": 0.08,
+    "price": 12000
+  },
+  {
+    "brand": "Case IH",
+    "model": "Magnum 250",
+    "type": "tractor",
+    "speed": 250,
+    "fuel_rate": 0.09,
+    "price": 15000
+  },
+  {
+    "brand": "New Holland",
+    "model": "T7",
+    "type": "tractor",
+    "speed": 245,
+    "fuel_rate": 0.085,
+    "price": 13500
+  },
+  {
+    "brand": "CLAAS",
+    "model": "LEXION 770",
+    "type": "harvester",
+    "crop": "wheat",
+    "speed": 210,
+    "fuel_rate": 0.14,
+    "price": 30000
+  },
+  {
+    "brand": "John Deere",
+    "model": "S780",
+    "type": "harvester",
+    "crop": "wheat",
+    "speed": 215,
+    "fuel_rate": 0.15,
+    "price": 32000
+  },
+  {
+    "brand": "John Deere",
+    "model": "T560i",
+    "type": "harvester",
+    "crop": "barley",
+    "speed": 215,
+    "fuel_rate": 0.14,
+    "price": 29500
+  },
+  {
+    "brand": "CASE",
+    "model": "AF 7250",
+    "type": "harvester",
+    "crop": "rapeseed",
+    "speed": 205,
+    "fuel_rate": 0.16,
+    "price": 34000
+  },
+  {
+    "brand": "New Holland",
+    "model": "CR9.90",
+    "type": "harvester",
+    "crop": "sunflower",
+    "speed": 210,
+    "fuel_rate": 0.16,
+    "price": 35500
+  },
+  {
+    "brand": "ROPA",
+    "model": "Tiger 6S",
+    "type": "harvester",
+    "crop": "beet",
+    "speed": 200,
+    "fuel_rate": 0.18,
+    "price": 50000
+  },
+  {
+    "brand": "CLAAS",
+    "model": "DOMINATOR 130",
+    "type": "harvester",
+    "crop": "pea",
+    "speed": 205,
+    "fuel_rate": 0.15,
+    "price": 28000
+  }
+]

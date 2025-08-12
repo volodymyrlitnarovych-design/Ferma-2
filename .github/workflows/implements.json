@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Plow 4m",
+    "type": "plow",
+    "efficiency": 1.0,
+    "fuel_mul": 1.0,
+    "price": 3000
+  },
+  {
+    "name": "Plow 6m",
+    "type": "plow",
+    "efficiency": 1.4,
+    "fuel_mul": 1.2,
+    "price": 5200
+  },
+  {
+    "name": "Cultivator 6m",
+    "type": "cultivator",
+    "efficiency": 1.3,
+    "fuel_mul": 1.1,
+    "price": 4800
+  },
+  {
+    "name": "Seeder 6m",
+    "type": "seeder",
+    "efficiency": 1.0,
+    "seed_rate": 1.0,
+    "price": 7000
+  },
+  {
+    "name": "Seeder 9m",
+    "type": "seeder",
+    "efficiency": 1.3,
+    "seed_rate": 1.2,
+    "price": 11000
+  }
+]

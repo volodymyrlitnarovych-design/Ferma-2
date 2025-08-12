@@ -1,0 +1,28 @@
+
+name: open_farm_mobile
+description: Pro farm sim with menu, minimap, implements, multiple crops.
+publish_to: "none"
+version: 0.7.0+1
+
+environment:
+  sdk: ">=3.2.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.11.0
+  flame_audio: ^2.0.4
+  flutter_svg: ^2.0.9
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/i18n/
+    - assets/ui/

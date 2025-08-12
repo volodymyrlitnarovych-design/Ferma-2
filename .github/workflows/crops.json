@@ -1,0 +1,44 @@
+[
+  {
+    "key": "wheat",
+    "yield": 1,
+    "seed_cost": 2,
+    "sell_price": 4,
+    "grow_ticks": 3
+  },
+  {
+    "key": "sunflower",
+    "yield": 1,
+    "seed_cost": 3,
+    "sell_price": 7,
+    "grow_ticks": 4
+  },
+  {
+    "key": "barley",
+    "yield": 1,
+    "seed_cost": 2,
+    "sell_price": 5,
+    "grow_ticks": 3
+  },
+  {
+    "key": "pea",
+    "yield": 1,
+    "seed_cost": 3,
+    "sell_price": 6,
+    "grow_ticks": 4
+  },
+  {
+    "key": "beet",
+    "yield": 2,
+    "seed_cost": 4,
+    "sell_price": 8,
+    "grow_ticks": 5
+  },
+  {
+    "key": "rapeseed",
+    "yield": 1,
+    "seed_cost": 3,
+    "sell_price": 7,
+    "grow_ticks": 4
+  }
+]
